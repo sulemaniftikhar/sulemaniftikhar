@@ -33,3 +33,5 @@ I'm always open to learning and collaborating. Feel free to reach out to me on:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/linksuleman/)
 
 Thanks for visiting my profile!
+
+![](https://komarev.com/ghpvc/?username=sulemaniftikhar&color=blueviolet)
