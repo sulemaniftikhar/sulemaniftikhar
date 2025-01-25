@@ -25,12 +25,18 @@ I'm currently working with:
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)](https://reactjs.org)
 
+## 📈 GitHub Stats
+
+![Suleman's GitHub stats](https://github-readme-stats.vercel.app/api?username=sulemaniftikhar&show_icons=true&theme=radical)
 
 ## Let's Connect
 
 I'm always open to learning and collaborating. Feel free to reach out to me on:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/linksuleman/)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white&style=flat-square)](https://wa.me/923216474735)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=flat-square)](https://www.facebook.com/iffsuleman)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/ifsuleman/)
 
 Thanks for visiting my profile!
 
